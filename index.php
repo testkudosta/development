@@ -1,3 +1,3 @@
 <?php 
-echo "test git setup";
+echo "test git setup gjujg";
 ?>
